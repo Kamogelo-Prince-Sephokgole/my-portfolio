@@ -21,7 +21,7 @@ Directly contact the candidate by email using the contact option on the very bot
 
 ### `progressive test`
 
-Launches the console in the browser.\
+Launch the console in the browser.\
 Set dimensions to 480 x 640, as was explained above.
 
 ## Deployment
