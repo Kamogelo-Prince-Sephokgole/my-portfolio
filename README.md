@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://create-react-app.d
 
 ## `edit code`
 
-To edit this code, the user will need to have [Node.js](https://nodejs.org/en/) and a code editor, preferably [Visual Studio Code](https://code.visualstudio.com/) as was used by the candidate.
+To edit this code, the user will need to have [Node.js](https://nodejs.org/en/) and a code editor, preferably [Visual Studio Code](https://code.visualstudio.com/) as was used by the candidate.\
+Install nmp or yarn within the repository location of the file of the user and start editing.
 
 ## `access portfolio`
 
