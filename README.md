@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
-## Available Scripts
+## This readme file exists to communicate accessibility and usage of both the Portfolio created and code thereof
+
+## `edit code`
 
 In the project directory, you can run:
 
