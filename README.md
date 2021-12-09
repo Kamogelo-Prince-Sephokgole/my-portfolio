@@ -2,13 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
-## This readme file exists to communicate accessibility and usage of both the Portfolio created and code thereof
+#### This readme file exists to communicate accessibility and usage of both the Portfolio created and code thereof
 
 ## `edit code`
 
 To edit this code, the user will need to have [Node.js](https://nodejs.org/en/) and a code editor, preferably [Visual Studio Code](https://code.visualstudio.com/) as was used by the candidate.
 
-### `access portfolio`
+## `access portfolio`
 
 Run this app on a desktop and/or 480 x 640 width by height mobile phone.\
 Open [React App](https://software-development-challenge.vercel.app/) to view the portfolio in the browser.
@@ -24,6 +24,6 @@ Directly contact the candidate by email using the contact option on the very bot
 Launches the console in the browser.\
 Set dimensions to 480 x 640, as was explained above.
 
-### Deployment
+## Deployment
 
 This website was deployed using [Vercel](https://vercel.com/docs)
